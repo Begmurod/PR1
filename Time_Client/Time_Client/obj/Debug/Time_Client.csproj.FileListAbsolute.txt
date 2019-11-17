@@ -1,0 +1,6 @@
+C:\Users\Роман\Desktop\х\VisualStudioApps\Time_Server\Time_Client\Time_Client\bin\Debug\Time_Client.exe.config
+C:\Users\Роман\Desktop\х\VisualStudioApps\Time_Server\Time_Client\Time_Client\bin\Debug\Time_Client.exe
+C:\Users\Роман\Desktop\х\VisualStudioApps\Time_Server\Time_Client\Time_Client\bin\Debug\Time_Client.pdb
+C:\Users\Роман\Desktop\х\VisualStudioApps\Time_Server\Time_Client\Time_Client\obj\Debug\Time_Client.csprojAssemblyReference.cache
+C:\Users\Роман\Desktop\х\VisualStudioApps\Time_Server\Time_Client\Time_Client\obj\Debug\Time_Client.exe
+C:\Users\Роман\Desktop\х\VisualStudioApps\Time_Server\Time_Client\Time_Client\obj\Debug\Time_Client.pdb

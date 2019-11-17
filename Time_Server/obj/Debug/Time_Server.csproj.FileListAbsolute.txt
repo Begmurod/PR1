@@ -1,0 +1,6 @@
+C:\Users\Роман\Desktop\х\VisualStudioApps\Time_Server\Time_Server\bin\Debug\Time_Server.exe.config
+C:\Users\Роман\Desktop\х\VisualStudioApps\Time_Server\Time_Server\bin\Debug\Time_Server.exe
+C:\Users\Роман\Desktop\х\VisualStudioApps\Time_Server\Time_Server\bin\Debug\Time_Server.pdb
+C:\Users\Роман\Desktop\х\VisualStudioApps\Time_Server\Time_Server\obj\Debug\Time_Server.csprojAssemblyReference.cache
+C:\Users\Роман\Desktop\х\VisualStudioApps\Time_Server\Time_Server\obj\Debug\Time_Server.exe
+C:\Users\Роман\Desktop\х\VisualStudioApps\Time_Server\Time_Server\obj\Debug\Time_Server.pdb

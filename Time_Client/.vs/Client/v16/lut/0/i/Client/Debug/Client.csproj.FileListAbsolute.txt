@@ -1,0 +1,5 @@
+H:\Client_Server, Бек\Time_Client\.vs\Client\v16\lut\0\b\Time_Client.exe.config
+H:\Client_Server, Бек\Time_Client\.vs\Client\v16\lut\0\b\Time_Client.exe
+H:\Client_Server, Бек\Time_Client\.vs\Client\v16\lut\0\i\Client\Debug\Client.csprojAssemblyReference.cache
+H:\Client_Server, Бек\Time_Client\.vs\Client\v16\lut\0\i\Client\Debug\Client.csproj.CopyComplete
+H:\Client_Server, Бек\Time_Client\.vs\Client\v16\lut\0\i\Client\Debug\Time_Client.exe

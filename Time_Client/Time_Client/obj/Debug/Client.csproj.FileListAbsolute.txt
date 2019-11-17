@@ -1,0 +1,31 @@
+C:\Users\Roman.Erlikhman\Desktop\Client_Server\Time_Client\Time_Client\bin\Debug\Time_Client.exe.config
+C:\Users\Roman.Erlikhman\Desktop\Client_Server\Time_Client\Time_Client\bin\Debug\Time_Client.exe
+C:\Users\Roman.Erlikhman\Desktop\Client_Server\Time_Client\Time_Client\bin\Debug\Time_Client.pdb
+C:\Users\Roman.Erlikhman\Desktop\Client_Server\Time_Client\Time_Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Roman.Erlikhman\Desktop\Client_Server\Time_Client\Time_Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Roman.Erlikhman\Desktop\Client_Server\Time_Client\Time_Client\obj\Debug\Time_Client.exe
+C:\Users\Roman.Erlikhman\Desktop\Client_Server\Time_Client\Time_Client\obj\Debug\Time_Client.pdb
+C:\Users\Роман\Downloads\Client_Server-20191106T214238Z-001\Client_Server\Time_Client\Time_Client\bin\Debug\Time_Client.exe.config
+C:\Users\Роман\Downloads\Client_Server-20191106T214238Z-001\Client_Server\Time_Client\Time_Client\bin\Debug\Time_Client.exe
+C:\Users\Роман\Downloads\Client_Server-20191106T214238Z-001\Client_Server\Time_Client\Time_Client\bin\Debug\Time_Client.pdb
+C:\Users\Роман\Downloads\Client_Server-20191106T214238Z-001\Client_Server\Time_Client\Time_Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Роман\Downloads\Client_Server-20191106T214238Z-001\Client_Server\Time_Client\Time_Client\obj\Debug\Time_Client.exe
+C:\Users\Роман\Downloads\Client_Server-20191106T214238Z-001\Client_Server\Time_Client\Time_Client\obj\Debug\Time_Client.pdb
+C:\Users\Роман\Desktop\х\3 курс\Client_Server, Бек\Time_Client\Time_Client\bin\Debug\Time_Client.exe.config
+C:\Users\Роман\Desktop\х\3 курс\Client_Server, Бек\Time_Client\Time_Client\bin\Debug\Time_Client.exe
+C:\Users\Роман\Desktop\х\3 курс\Client_Server, Бек\Time_Client\Time_Client\bin\Debug\Time_Client.pdb
+C:\Users\Роман\Desktop\х\3 курс\Client_Server, Бек\Time_Client\Time_Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Роман\Desktop\х\3 курс\Client_Server, Бек\Time_Client\Time_Client\obj\Debug\Time_Client.exe
+C:\Users\Роман\Desktop\х\3 курс\Client_Server, Бек\Time_Client\Time_Client\obj\Debug\Time_Client.pdb
+H:\Client_Server, Бек\Time_Client\Time_Client\bin\Debug\Time_Client.exe.config
+H:\Client_Server, Бек\Time_Client\Time_Client\bin\Debug\Time_Client.exe
+H:\Client_Server, Бек\Time_Client\Time_Client\bin\Debug\Time_Client.pdb
+H:\Client_Server, Бек\Time_Client\Time_Client\obj\Debug\Client.csprojAssemblyReference.cache
+H:\Client_Server, Бек\Time_Client\Time_Client\obj\Debug\Time_Client.exe
+H:\Client_Server, Бек\Time_Client\Time_Client\obj\Debug\Time_Client.pdb
+D:\Client_Server, Бек\Time_Client\Time_Client\bin\Debug\Time_Client.exe.config
+D:\Client_Server, Бек\Time_Client\Time_Client\bin\Debug\Time_Client.exe
+D:\Client_Server, Бек\Time_Client\Time_Client\bin\Debug\Time_Client.pdb
+D:\Client_Server, Бек\Time_Client\Time_Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Client_Server, Бек\Time_Client\Time_Client\obj\Debug\Time_Client.exe
+D:\Client_Server, Бек\Time_Client\Time_Client\obj\Debug\Time_Client.pdb

@@ -1,0 +1,33 @@
+C:\Users\Roman.Erlikhman\Desktop\Client_Server\Time_Server\bin\Debug\Time_Server.exe.config
+C:\Users\Roman.Erlikhman\Desktop\Client_Server\Time_Server\bin\Debug\Time_Server.exe
+C:\Users\Roman.Erlikhman\Desktop\Client_Server\Time_Server\bin\Debug\Time_Server.pdb
+C:\Users\Roman.Erlikhman\Desktop\Client_Server\Time_Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Roman.Erlikhman\Desktop\Client_Server\Time_Server\obj\Debug\Time_Server.exe
+C:\Users\Roman.Erlikhman\Desktop\Client_Server\Time_Server\obj\Debug\Time_Server.pdb
+C:\Users\Роман\Downloads\Client_Server-20191106T214238Z-001\Client_Server\Time_Server\bin\Debug\Time_Server.exe.config
+C:\Users\Роман\Downloads\Client_Server-20191106T214238Z-001\Client_Server\Time_Server\bin\Debug\Time_Server.exe
+C:\Users\Роман\Downloads\Client_Server-20191106T214238Z-001\Client_Server\Time_Server\bin\Debug\Time_Server.pdb
+C:\Users\Роман\Downloads\Client_Server-20191106T214238Z-001\Client_Server\Time_Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Роман\Downloads\Client_Server-20191106T214238Z-001\Client_Server\Time_Server\obj\Debug\Time_Server.exe
+C:\Users\Роман\Downloads\Client_Server-20191106T214238Z-001\Client_Server\Time_Server\obj\Debug\Time_Server.pdb
+C:\Users\Роман\Desktop\х\3 курс\Client_Server, Бек\Time_Server\bin\Debug\Time_Server.exe.config
+C:\Users\Роман\Desktop\х\3 курс\Client_Server, Бек\Time_Server\bin\Debug\Time_Server.exe
+C:\Users\Роман\Desktop\х\3 курс\Client_Server, Бек\Time_Server\bin\Debug\Time_Server.pdb
+C:\Users\Роман\Desktop\х\3 курс\Client_Server, Бек\Time_Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Роман\Desktop\х\3 курс\Client_Server, Бек\Time_Server\obj\Debug\Time_Server.exe
+C:\Users\Роман\Desktop\х\3 курс\Client_Server, Бек\Time_Server\obj\Debug\Time_Server.pdb
+C:\Users\B.R.Saidmurodov\Desktop\Client_Server, Бек\Time_Server\bin\Debug\Time_Server.exe.config
+C:\Users\B.R.Saidmurodov\Desktop\Client_Server, Бек\Time_Server\obj\Debug\Time_Server.exe
+C:\Users\B.R.Saidmurodov\Desktop\Client_Server, Бек\Time_Server\obj\Debug\Time_Server.pdb
+H:\Client_Server, Бек\Time_Server\bin\Debug\Time_Server.exe.config
+H:\Client_Server, Бек\Time_Server\bin\Debug\Time_Server.exe
+H:\Client_Server, Бек\Time_Server\bin\Debug\Time_Server.pdb
+H:\Client_Server, Бек\Time_Server\obj\Debug\Server.csprojAssemblyReference.cache
+H:\Client_Server, Бек\Time_Server\obj\Debug\Time_Server.exe
+H:\Client_Server, Бек\Time_Server\obj\Debug\Time_Server.pdb
+D:\Client_Server, Бек\Time_Server\bin\Debug\Time_Server.exe.config
+D:\Client_Server, Бек\Time_Server\bin\Debug\Time_Server.exe
+D:\Client_Server, Бек\Time_Server\bin\Debug\Time_Server.pdb
+D:\Client_Server, Бек\Time_Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Client_Server, Бек\Time_Server\obj\Debug\Time_Server.exe
+D:\Client_Server, Бек\Time_Server\obj\Debug\Time_Server.pdb
